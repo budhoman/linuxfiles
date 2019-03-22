@@ -51,4 +51,5 @@ fi
 xclock -geometry 150x150-0+0 &
 xcalc -geometry 200x350-400+0 &
 xbiff -geometry 150x150-200+0 &
-exec xterm -geometry 80x66+0+0 -name login
+# exec xterm -geometry 80x66+0+0 -name login
+exec openbox-session
