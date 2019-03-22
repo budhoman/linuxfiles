@@ -8,7 +8,7 @@ pacman -S xorg xorg-xinit xorg-twm xorg-xclock xterm
 
 startx
 
-pacman -S xorg-xcalc xorg-xbiff pcmanfm
+pacman -S xorg-xcalc xorg-xbiff pcmanfm opera
 
 pacman -S openbox
 
