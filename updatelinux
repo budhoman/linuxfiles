@@ -1,1 +1,1 @@
-pacman -SYyu
+pacman -Syyu
