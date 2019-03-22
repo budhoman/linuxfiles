@@ -1,1 +1,15 @@
+wget archfi.sf.net/archfi && sh archfi
 
+##install arch
+
+## install xorg
+
+pacman -S xorg xorg-xinit xorg-twm xorg-xclock xterm 
+
+startx
+
+pacman -S xorg-xcalc xorg-xbiff pcmanfm
+
+pacman -S openbox
+
+copy xinitrc to home folder and rename with a dot in front
