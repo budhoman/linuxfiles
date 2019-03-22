@@ -18,4 +18,6 @@ create openbox folder in .config
 
 create autostart
 
+run mmaker openbox -t xterm
+
 
