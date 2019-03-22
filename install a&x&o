@@ -13,3 +13,9 @@ pacman -S xorg-xcalc xorg-xbiff pcmanfm
 pacman -S openbox
 
 copy xinitrc to home folder and rename with a dot in front
+
+create openbox folder in .config
+
+create autostart
+
+
