@@ -10,7 +10,7 @@ startx
 
 pacman -S xorg-xcalc xorg-xbiff pcmanfm opera
 
-pacman -S openbox
+pacman -S openbox obconf obmenu terminator leafpad menumaker
 
 copy xinitrc to home folder and rename with a dot in front
 
